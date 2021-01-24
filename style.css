@@ -2,7 +2,7 @@ html,
 head {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: rgb(77, 8, 48);
-  font-size: 40px;
+  font-size: 35px;
 }
 
 title {
@@ -16,7 +16,7 @@ body {
 }
 h1 {
   color: rgb(77, 8, 48);
-  font-size: 40px;
+  font-size: 80px;
 }
 h2,
 h5,
@@ -51,4 +51,7 @@ li::before {
 }
 #scoresTitle {
   padding-left: 16px;
+}
+button {
+  color: rebeccapurple;
 }
