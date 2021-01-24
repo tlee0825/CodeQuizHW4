@@ -52,6 +52,6 @@ li::before {
 #scoresTitle {
   padding-left: 16px;
 }
-button {
+.btn {
   color: rebeccapurple;
 }
